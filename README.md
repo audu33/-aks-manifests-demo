@@ -1,1 +1,1 @@
-# -aks-manifests-demo
+# aks-manifests-demo
